@@ -1,0 +1,17 @@
+user_name: "kinghge"
+repo_name: "cv-arxiv-daily"
+show_authors: true
+show_links: true
+show_badge: true
+max_results: 10
+
+publish_html: true
+
+json_readme_path: "./docs/cv-arxiv-daily.json"
+
+path: "./docs/index.html"
+
+
+keywords:
+  "Anomaly Detection":
+    filters: ["Anomaly Detection", "Anomaly Detection in Images"]
