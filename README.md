@@ -23,7 +23,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/[your-username]/arxiv_paper_tohtml.git
+git clone https://github.com/kinghge/arxiv_parper_tohtml.git
 cd arxiv_paper_tohtml
 ```
 
